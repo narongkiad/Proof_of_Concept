@@ -131,7 +131,7 @@
                       <template v-slot:default="{ isActive }">
                         <v-card>
                           <center>
-                            <h1 class="dialogHeader">สินเชื่อเพื่อนเปี๊ยก</h1>
+                            <h1 class="dialogHeader">สินเชื่อเพื่อนเปี๊ยก!!</h1>
                           </center>
                           <div v-if="dialogScore">
                             <center>
